@@ -1,4 +1,4 @@
-Hey! I'm David Murga Pereyra 
+<h1>Hey! I'm David Murga Pereyra</h1> 
 
 <strong>Full stack web developer</strong>
 
