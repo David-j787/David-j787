@@ -1,6 +1,6 @@
 <h1>Hey! I'm David Murga Pereyra</h1> 
 
-<strong>Full stack web developer</strong>
+<strong><h2>Full stack web developer</h2></strong>
 
 Here are my knowledge in: 
 
