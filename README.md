@@ -29,7 +29,7 @@ Frontend:
 
 <h3>Country App</h3>
 
-This app is responsive to a mobile screen where you can order all the countries, find and create activitie.
+<h4>This app is responsive to a mobile screen where you can order all the countries, find and create activities.</h4>
 <img src='https://github.com/David-j787/David-j787/blob/main/home-mobile.png'/>
 <img src='https://github.com/David-j787/David-j787/blob/main/add-mobile.png'/>
 <img src='https://github.com/David-j787/David-j787/blob/main/home-pc.png'/>
