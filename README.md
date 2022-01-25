@@ -30,11 +30,13 @@ Frontend:
 <h3>Country App</h3>
 
 <h4>This app is responsive to a mobile screen where you can order all the countries, find and create activities.</h4>
-<img src='https://github.com/David-j787/David-j787/blob/main/home-mobile.png'/>
-<img src='https://github.com/David-j787/David-j787/blob/main/add-mobile.png'/>
-<img src='https://github.com/David-j787/David-j787/blob/main/home-pc.png'/>
-<img src='https://github.com/David-j787/David-j787/blob/main/menu-pc.png'/>
-
+<span><img width='300px' height='450px' src='https://github.com/David-j787/David-j787/blob/main/home-mobile.png'/>
+<img width='300px' height='450px' src='https://github.com/David-j787/David-j787/blob/main/add-mobile.png'/>
+  </span>
+  <span>
+<img width='450px' height='300px' src='https://github.com/David-j787/David-j787/blob/main/home-pc.png'/>
+<img width='450px' height='300px' src='https://github.com/David-j787/David-j787/blob/main/menu-pc.png'/>
+  </span>
 
 
 <h3>Food App</h3>
