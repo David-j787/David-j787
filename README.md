@@ -35,7 +35,7 @@ Frontend:
   </span>
   <span>
 <img width='450px' height='300px' src='https://github.com/David-j787/David-j787/blob/main/home-pc.png'/>
-<img width='450px' height='300px' src='https://github.com/David-j787/David-j787/blob/main/menu-pc.png'/>
+<img width='400px' height='300px' src='https://github.com/David-j787/David-j787/blob/main/menu-pc.png'/>
   </span>
 
 
