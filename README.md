@@ -35,14 +35,14 @@ Frontend:
 <img width='300px' height='450px' src='https://github.com/David-j787/David-j787/blob/main/add-mobile.png'/>
   </span>
   <span>
-<img width='450px' height='270px' src='https://github.com/David-j787/David-j787/blob/main/home-pc.png'/>
-<img width='400px' height='270px' src='https://github.com/David-j787/David-j787/blob/main/menu-pc.png'/>
+<img width='600px' height='300px' src='https://github.com/David-j787/David-j787/blob/main/home-pc.png'/>
+<img width='600px' height='300px' src='https://github.com/David-j787/David-j787/blob/main/menu-pc.png'/>
   </span>
 
 
 <h3>Food App</h3>
 
-<img src='https://github.com/David-j787/David-j787/blob/main/Screenshot_13.png'>
+<img width='600px' height='300px' src='https://github.com/David-j787/David-j787/blob/main/Screenshot_13.png'>
 
 
 
